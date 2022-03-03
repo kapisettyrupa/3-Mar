@@ -1,0 +1,14 @@
+l=("create","the","tuples")
+n=("and","merge","them")
+print(l[0],l[1],l[2],n[0],n[1],n[2])
+
+OUTPUT
+create the tuples and merge them
+
+l=("a","b","c")
+n=("1","2","3")
+m=l+n
+print(m)
+
+OUTPUT
+('a','b','c','1','2','3')
